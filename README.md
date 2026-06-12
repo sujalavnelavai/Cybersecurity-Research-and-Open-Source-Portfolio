@@ -1,38 +1,31 @@
-# Cybersecurity-Research-and-Open-Source-Portfolio
-# 🛡️ Cybersecurity Research & Open Source Portfolio
+# Cybersecurity Research & Open-Source Portfolio
 
-Hi there! Welcome to my public security library. This repository is where I document my deep dives into system architecture, threat analysis, application security, and the human factors that impact security operations. 
-
-Beyond writing these analyses, I actively contribute to real-world defensive security tools. I have multiple Pull Requests (PRs) merged into core global frameworks like the **OWASP Cheat Sheets** and **OWASP Zeek**, and I am currently working on contributions for **Suricata**, **OWASP ASVS**, and the **OWASP Dev Guide**.
+Welcome to my security research hub. This repository serves as a centralized portfolio documenting my engineering insights, architectural analyses, and hands-on explorations across modern security operations, application security, and system resilience.
 
 ---
 
-## 📑 Library Directory
-
-### 🧠 Operational Psychology & Human Factors
-* **[The Hypervigilance Trap: Cognitive Overload in the SOC](./human-factors/hypervigilance-trap.md)**
-  * *The Core Idea:* A look into the psychological side of blue-teaming. This piece analyzes how constant pattern monitoring sharpens threat detection but quickly leads to cognitive burnout if left unmanaged.
-
-### 🌐 System Architecture & Systemic Risk
-* **[Genetic Diversity vs. Cyber Diversity: Why Monocultures Are Dangerous](./system-architecture/cyber-diversity.md)**
-  * *The Core Idea:* Connecting the 1840s Irish Potato Blight to the 2024 global CrowdStrike outage. It maps out why our industry-wide obsession with uniform software, identical cloud setups, and matching AI models leaves us exposed to single points of catastrophic failure.
+## 📂 Portfolio Directory
 
 ### 🚀 Application Security & AI Auditing
-* **[Leveraging GitHub Copilot against OWASP Authentication Vulnerabilities](./app-sec/owasp-copilot-auth.md)**
-  * *The Core Idea:* A hands-on analysis of using AI coding assistants to spot, break down, and fix authentication failures. Built as part of the DEV GitHub Challenge.
-  * *Lab Files & Code:* You can track my functional security testing scripts, vulnerable code samples, and AI-generated fixes directly inside this repository's **[/app-sec/copilot-challenge-labs/](./app-sec/copilot-challenge-labs/)** directory.
+* **[Improving My OWASP Authentication Failures Write-Up Using GitHub Copilot](./app-sec/copilot-challenge-submission.md)**
+  * *The Core Idea:* An honest retrospective on leveraging AI pair-programmers to scale, refine, and structure legacy security documentation for the GitHub "Finish-Up-A-Thon" Challenge.
+* **[What AI Training Taught Me About Clear Technical Thinking](./app-sec/owasp-copilot-auth.md)**
+  * *The Core Idea:* Bridging the gap between AI behavioral analysis and threat intelligence, showing how structured logic and precision writing act as core security controls.
 
-### 🎮 Software Engineering & Rapid Prototyping
-* **[DEV June Solstice Game Jam Notes](./game-development/solstice-game-jam.md)**
-  * *The Core Idea:* Behind-the-scenes engineering and architecture notes from my submission to the 2026 DEV Solstice Challenge. Building a game from scratch under a tight deadline requires strong logic flow, clean code structure, and rapid scoping.
-  * *The Game:* Check out the codebase and play the live build over at my dedicated [June Solstice Game Jam Repo](https://github.com/sujalavnelavai/june-solstice-games-2026).
+### 🧠 Human Factors in Security Operations
+* **[The Hypervigilance Trap: Why SOC Analysts Miss Threats When They Try Too Hard](./human-factors/hypervigilance-trap.md)**
+  * *The Core Idea:* A deep-dive exploration into the psychological and cognitive load of blue-team monitoring, examining how over-active pattern recognition leads to operational friction and false positives.
+
+### 🌐 System Architecture & Resilience
+* **[Genetic Diversity and Cyber Diversity: Why Monocultures Are Dangerous](./system-architecture/cyber-diversity.md)**
+  * *The Core Idea:* Drawing parallels between biological ecosystems and modern enterprise networks to explain why software uniformity creates catastrophic single points of failure.
 
 ---
 
-## 🔧 Skills Checked into This Repo
-* **Threat Modeling & Structural Risk Assessment** (Spotting systemic flaws before they cascade)
-* **Technical Writing as a Security Control** (Translating complex data into clear, defensive documentation)
-* **Defensive Tooling & Frameworks** (Hands-on experience with Zeek, Suricata, and OWASP standards)
-* **Git Version Control & Open Source Workflows**
+## 🛠️ Core Focus Areas
+* **Detection Engineering:** Operationalizing security alerts by focusing on high-fidelity telemetry over raw noise.
+* **AI Security Integration:** Discovering ways to use generative models safely and efficiently as an engineering multiplier.
+* **Technical Communication:** Writing crisp, clear, and unambiguous technical resources for the broader learning community.
 
-💬 *Feel free to explore the folders above to read through the full write-ups. If you want to talk security, architecture, or open-source contribution, let's connect on [LinkedIn](REPLACE_WITH_YOUR_LINKEDIN_LINK) or follow my updates on [DEV.to] *https://dev.to/sujalavnelavai
+---
+*Connect with me and track my latest discussions on my [DEV.to Profile](https://dev.to/sujalavnelavai).*
