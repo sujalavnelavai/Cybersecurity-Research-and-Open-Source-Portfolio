@@ -102,4 +102,4 @@ The paradox is simple: **The same mind that protects systems must also be protec
 * Siegel, D. J. (2010). *The Mindful Brain*.
 
 ---
-*Originally published and discussed on [DEV.to](YOUR_DEV_TO_ARTICLE_URL_HERE).*
+*Originally published and discussed on [DEV.to](https://dev.to/sujalavnelavai/the-pattern-paradox-when-hypervigilance-helps-and-hurts-cybersecurity-analysts-518n).*
