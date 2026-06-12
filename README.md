@@ -20,7 +20,7 @@ Beyond writing these analyses, I actively contribute to real-world defensive sec
 ### 🚀 Application Security & AI Auditing
 * **[Leveraging GitHub Copilot against OWASP Authentication Vulnerabilities](./app-sec/owasp-copilot-auth.md)**
   * *The Core Idea:* A hands-on analysis of using AI coding assistants to spot, break down, and fix authentication failures. Built as part of the DEV GitHub Challenge.
-  * *Source Code:* You can track the full functional repository and security testing files in my dedicated [GitHub Copilot Challenge Repo](REPLACE_WITH_YOUR_COPILOT_REPO_LINK).
+  * *Lab Files & Code:* You can track my functional security testing scripts, vulnerable code samples, and AI-generated fixes directly inside this repository's **[/app-sec/copilot-challenge-labs/](./app-sec/copilot-challenge-labs/)** directory.
 
 ### 🎮 Software Engineering & Rapid Prototyping
 * **[DEV June Solstice Game Jam Notes](./game-development/solstice-game-jam.md)**
